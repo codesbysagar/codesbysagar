@@ -66,7 +66,7 @@
 
 ###
 
-<img src="https://github.com/codesbysagar/codesbysagar/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/codesbysagar/codesbysagar/output/snake.svg" alt="Snake animation" />
 
 ###
 
