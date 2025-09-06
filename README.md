@@ -11,7 +11,7 @@ I'm a versatile developer with a strong background in building robust applicatio
 
 - 🌱 I’m currently diving deep into **advanced Go utilities** and **real-time stream processing**.
 - 💬 Ask me about **backend architecture**, **web performance**, or **React**.
-- 📫 How to reach me: **[Your Email/LinkedIn Here]**
+- 📫 How to reach me: **[@email/linkedIn]**
 - ⚡ Fun fact: **I believe the best error messages are the ones that make you smile before you fix the bug.**
 
 ---
