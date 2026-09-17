@@ -51,7 +51,7 @@ I am a versatile engineer with production experience delivering systems from end
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[simplyenv](https://github.com/codesbysagar/simplyenv)**<br/>🌐 [Live Preview](https://simplyenv.codesbysagar.com) | Modern `direnv` alternative & visual environment manager. Automatically exports directory-scoped variables across **Bash, Zsh, & Fish**, featuring an embedded web dashboard and secret masking. | `Go` `Web UI` `Shell` `CLI` |
+| **[simplyenv](https://github.com/codesbysagar/simplyenv)**<br/>🌐 [Live Preview](https://simplyenv.codesbysagar.com) | Modern `direnv` features with visual environment manager. Automatically exports directory-scoped variables across **Bash, Zsh, & Fish**, featuring an embedded web dashboard and secret masking. | `Go` `Web UI` `Shell` `CLI` |
 | **[Real-time Chat Engine](https://github.com/codesbysagar)** | Scalable WebSocket message broker and gateway handling 5,000+ concurrent connections backed by Redis Pub/Sub horizontal distribution and Go goroutines. | `Go` `WebSockets` `Redis` `Concurrency` |
 | **[E-Commerce Microservices](https://github.com/codesbysagar)** | Decoupled high-throughput microservices handling transactional checkouts, row-level inventory locks, and asynchronous payment webhook workers. | `Go` `PostgreSQL` `Redis` `Docker` |
 | **[Udhar Khata](https://github.com/codesbysagar)** | Cross-platform ledger and credit settlement app featuring real-time Firebase sync, Biometric/MPIN local authentication, and automated payment reminder generation. | `Flutter` `Dart` `Firebase Firestore` `Biometrics` |
