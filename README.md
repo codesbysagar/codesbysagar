@@ -25,7 +25,7 @@ I am a versatile engineer with production experience delivering systems from end
 - ⚙️ **Backend & Systems**: High-concurrency Go microservices, event-driven NSQ/Redis pipelines, and low-latency WebSocket gateways.
 - ☁️ **Cloud & Containerization**: End-to-end container workflows (Docker/Podman) with official **Red Hat Product Certification**, automated zero-downtime CI/CD, and AWS/GCP deployments.
 - 🎨 **Web & Mobile Frontends**: Polished web interfaces using React & Tailwind CSS, alongside offline-first, secure mobile apps using Flutter & Dart.
-- 🚀 **Featured Project**: [simplyenv](https://github.com/codesbysagar/simplyenv) — A modern direnv alternative and visual environment manager built in Go with an embedded web UI.
+- 🚀 **Featured Project**: [simplyenv](https://github.com/codesbysagar/simplyenv) — A modern direnv features with visual environment manager built in Go with an embedded web UI.
 - 💬 **Ask Me About**: Go concurrency, Microservices, Cloud Infrastructure, Docker/Podman, System Design, or Modern Frontend UX.
 - ⚡ **Philosophy**: *The best error messages are the ones that make you smile before you fix the bug.*
 
