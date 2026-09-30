@@ -8,7 +8,7 @@
   <p align="center">
     <a href="https://codesbysagar.com"><img src="https://img.shields.io/badge/Portfolio-EA8E35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/codesbysagar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:sagar2001sh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="mailto:sagarsharma.cbs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <a href="https://github.com/codesbysagar">
@@ -64,6 +64,6 @@ I am a versatile engineer with production experience delivering systems from end
 <div align="center">
   <a href="https://codesbysagar.com"><img src="https://img.shields.io/badge/Website-codesbysagar.com-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/codesbysagar"><img src="https://img.shields.io/badge/LinkedIn-codesbysagar-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:sagar2001sh@gmail.com"><img src="https://img.shields.io/badge/Email-sagar2001sh@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:sagarsharma.cbs@gmail.com"><img src="https://img.shields.io/badge/Email-sagarsharma.cbs@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://wa.me/+918882965621"><img src="https://img.shields.io/badge/WhatsApp-+918882965621-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </div>
